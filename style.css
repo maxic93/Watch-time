@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #071E57;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.input {
+    background-color: #333;
+    color: #fff;
+    height: 150px;
+    width: 400px;
+    font-size: 100px;
+    border-radius: 5%;
+}
+.input2 {
+    background-color: #333;
+    color: #fff;
+    height: 150px;
+    width: 400px;
+    font-size: 48px;
+    border-radius: 5%;
+}
